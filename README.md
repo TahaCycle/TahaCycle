@@ -1,3 +1,4 @@
+![image](https://user-images.githubusercontent.com/66218585/188860443-e0d65ef1-8ddb-4d1e-9ed8-df3f28e9a7de.png)
 <h1 align="center">Hi 👋, I'm Taha Cyclewala</h1>
 <h3 align="center">A passionate frontend developer, Machine Learning Engineer from India</h3>
 
